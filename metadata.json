@@ -1,0 +1,6 @@
+{
+  "name": "MEDCARE - Tibbiyot Markazi & Boshqaruv Tizimi",
+  "description": "Zamonaviy MEDCARE xususiy tibbiyot markazi rasmiy veb-sayti, onlayn qabul, shifokorlar, xizmatlar, laboratoriya, MSCT va boshqaruv tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
